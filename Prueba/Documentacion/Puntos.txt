@@ -1,0 +1,13 @@
+﻿
+- A: diagrama entidad / relación
+- B: consulta SQL.
+
+- C: Servicio web "Sherlock and the Valid String" con Json.
+- D: Servicio web "Non-Divisible Subset" con Json.
+
+- E: Desarrollar el servicio web en spring boot.
+- F: Utilizar gradle para la automatización de procesos.
+- H: Generar pruebas unitarias.
+
+- I: Subir Los puntos a GitHub.
+

@@ -1,0 +1,37 @@
+﻿
+Soluciones
+
+	A: 
+		Diagrama
+		
+		Tienda
+			productos
+				id
+				nombre del producto
+				cantidad de unidades en stock
+				valor asociado a la venta y de costo
+			ventas
+				id
+				Venta: cantidades del mismo producto
+				Compra: diferentes cantides del mismo producto
+			informe de ganancias
+	
+		Consulta
+			estado de resultados por producto hasta una fecha dada
+			retorna: id del producto
+					 nombre del producto
+					 cantidad de unidades en stock
+				     ingresos por venta del producto
+					 valor total de egresos por compra del producto,
+					 total de ganancias por producto (ingresos menos egresos).
+					 
+					 
+	
+		<dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>4.2.0.RELEASE</version>
+    </dependency>
+  
+	
+	

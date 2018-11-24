@@ -1,0 +1,11 @@
+#Sat Nov 24 20:17:47 UTC 2018
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1543090667954
+c=0
+cmp=usage
+a=finishWizard
+cl=org.eclipse.buildship.ui.wizard.project.ProjectCreationWizard
+v=2.2.102
+s=1
