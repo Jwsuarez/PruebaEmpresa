@@ -1,5 +1,0 @@
-127.0.0.1 - - [04/Jun/2018:03:32:19 +0000] "GET / HTTP/1.1" 404 994
-0:0:0:0:0:0:0:1 - - [04/Jun/2018:03:32:38 +0000] "GET /HolaMundo/ HTTP/1.1" 200 240
-0:0:0:0:0:0:0:1 - - [04/Jun/2018:03:32:43 +0000] "GET /HolaMundo/HolaMundo.jsp HTTP/1.1" 200 202
-0:0:0:0:0:0:0:1 - - [04/Jun/2018:03:32:46 +0000] "GET /HolaMundo/Formulario.html HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [04/Jun/2018:03:32:57 +0000] "GET /HolaMundo/Registro.jsp?nombre=Maria&apellido=Juarez HTTP/1.1" 200 410
